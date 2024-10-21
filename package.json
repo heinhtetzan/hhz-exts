@@ -1,10 +1,11 @@
 {
   "name": "hhz-exts",
   "displayName": "hhz-exts",
-  "description": "This collection of extensions is curated for developers who want a streamlined, efficient workflow. Whether you're working on front-end, back-end, or full-stack projects, these extensions are essential tools for boosting productivity. Ideal for software engineers who work on modern web applications, this pack simplifies the setup process and enhances your coding efficiency.",
+  "description": "Ideal for software engineers who work on modern web applications, this pack simplifies the setup process and enhances your coding efficiency.",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "heinhtetzan",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/heinhtetzan/hhz-exts.git"
