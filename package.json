@@ -1,0 +1,36 @@
+{
+  "name": "hhz-exts",
+  "displayName": "hhz-exts",
+  "description": "This collection of extensions is curated for developers who want a streamlined, efficient workflow. Whether you're working on front-end, back-end, or full-stack projects, these extensions are essential tools for boosting productivity. Ideal for software engineers who work on modern web applications, this pack simplifies the setup process and enhances your coding efficiency.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bmewburn.vscode-intelephense-client", 
+    "bradlc.vscode-tailwindcss", 
+    "christian-kohler.path-intellisense", 
+    "codeium.codeium", 
+    "dbaeumer.vscode-eslint", 
+    "deinsoftware.arrow-function-snippets", 
+    "dsznajder.es7-react-js-snippets", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-close-tag", 
+    "formulahendry.auto-rename-tag", 
+    "formulahendry.terminal", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode-remote.remote-ssh-edit", 
+    "ms-vscode.remote-explorer", 
+    "pkief.material-icon-theme", 
+    "riazxrazor.html-to-jsx", 
+    "ritwickdey.liveserver", 
+    "steoates.autoimport", 
+    "streetsidesoftware.code-spell-checker", 
+    "xabikos.javascriptsnippets", 
+    "xdebug.php-debug"
+  ]
+}
